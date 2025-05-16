@@ -4,7 +4,7 @@ Hello and welcome to my personal scripts repository. This repository contains al
 
 ## Disclaimer
 
-While you are free to browse, use, modify, or adapt any of the files here, **please note** that they are tailored for my a NixOS Environment, and will likely fail to work on more contemporary distros or MacOS without prior modification.
+While you are free to browse, use, modify, or adapt any of the files here, **please note** that they are tailored for a NixOS Environment, and will likely fail to work on more contemporary distros or MacOS without prior modification.
 
 These scripts have also been designed to solve issues I have encountered, or to automate tasks on my personal machines, and thus, while you are free to use them as you see fit, I make no guarantee that they will work for you or be suitable for your setup.
 
